@@ -16,7 +16,7 @@ ex. Chrome, Opera etc.
 ## URL
 URL stands for Uniform Resource Locator. A Uniform Resource Locator (URL), colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it. A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably. URLs occur most commonly to reference web pages (http) but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications
 
-### protocol://host:port/path
+#### protocol://host:port/path
 
    #### protocol:- Use for Client-server Communication.
    #### host:- Name of the connected server along wth the port number.
